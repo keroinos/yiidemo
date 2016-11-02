@@ -1,0 +1,8 @@
+127.0.0.1 - - [20/Oct/2016:10:44:30 +0800] "GET /index.php HTTP/1.1" 200 5118 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0"
+127.0.0.1 - - [20/Oct/2016:10:44:30 +0800] "GET /assets/946476a8/css/bootstrap.css HTTP/1.1" 200 146010 "http://frontend.local:81/index.php" "Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0"
+127.0.0.1 - - [20/Oct/2016:10:44:30 +0800] "GET /css/site.css HTTP/1.1" 200 1654 "http://frontend.local:81/index.php" "Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0"
+127.0.0.1 - - [20/Oct/2016:10:44:30 +0800] "GET /assets/c506df16/jquery.js HTTP/1.1" 200 257551 "http://frontend.local:81/index.php" "Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0"
+127.0.0.1 - - [20/Oct/2016:10:44:30 +0800] "GET /assets/37181292/yii.js HTTP/1.1" 200 16019 "http://frontend.local:81/index.php" "Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0"
+127.0.0.1 - - [20/Oct/2016:10:44:30 +0800] "GET /assets/946476a8/js/bootstrap.js HTTP/1.1" 200 69707 "http://frontend.local:81/index.php" "Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0"
+127.0.0.1 - - [20/Oct/2016:10:44:30 +0800] "GET /index.php?r=debug%2Fdefault%2Ftoolbar&tag=58082f8e9fb35 HTTP/1.1" 200 6130 "http://frontend.local:81/index.php" "Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0"
+127.0.0.1 - - [20/Oct/2016:10:44:31 +0800] "GET /favicon.ico HTTP/1.1" 200 318 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0"
